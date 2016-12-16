@@ -1,0 +1,39 @@
+.contraste,
+.contraste div, .contraste ul, .contraste p{
+	background: #000 !important;
+}
+.contraste *{
+	color: #FFF !important;
+}
+.contraste a{
+	color: #FC0 !important;
+}
+.contraste a:hover{
+	text-decoration: underline !important;
+}
+.contraste img{
+	border: 2px solid #FC0 !important;
+	padding: 5px;
+}
+ .contraste #material ul#navegacao li{
+ 	border: 2px solid #FC0 !important;
+ }
+.contraste #topo h1 a.gov{
+	background: transparent url('../images/gov_br_contraste.jpg') no-repeat left top;
+}
+.contraste #menu a.atual{
+	color: #000 !important;
+	background-color: #FBBD0A;
+}
+
+.contraste pre *{
+	background-color:#161616  !important;
+	color: #FBBD0A !important;
+}
+
+.contraste input[type="submit"]{
+	background-color:#161616  !important;
+	color: #FBBD0A !important;
+	border: #FBBD0A solid 1px;
+	padding: 10px;
+}

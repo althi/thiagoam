@@ -1,0 +1,40 @@
+.youareon{
+
+  background-color: #000;
+}
+
+
+  .funcionalidades ul#accessibility, 
+  .funcionalidades ul#acessbar{
+    border-radius: 5px;
+    height: 15px;
+    padding: 10px;
+    color: #0071C1;
+
+    padding-bottom: 15px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin-left: 15%;
+    margin-top: 45px;
+    z-index: 100;
+  }
+  .funcionalidades ul#accessibility{
+    padding: 5px 10px 5px 0;
+    height: 25px;
+  }
+  .funcionalidades ul#accessibility li{
+    padding: 0 0 0 10px;
+  }
+  .funcionalidades ul#accessibility a, 
+  .funcionalidades ul#acessbar a{
+    color: #0071C1;
+    text-decoration: none;
+  }
+  .funcionalidades ul#accessibility a:hover, 
+  .funcionalidades ul#acessbar a:hover{
+    text-decoration: underline;
+  }
+  .funcionalidades ul#acessbar li{
+    color: #0071C1;
+  }
